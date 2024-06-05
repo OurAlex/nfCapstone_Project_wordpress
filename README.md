@@ -19,7 +19,8 @@ This project provides a comprehensive Terraform configuration to set up a scalab
 
 ## Architecture Diagram
 
-![Architecture Diagram]([images/architecture_diagram.png](https://drive.google.com/file/d/164N2O24Pnf3bELGhC1O22SklcS8Yl8xu/view))
+![Architecture Diagram]([[images/architecture_diagram.png](https://drive.google.com/file/d/164N2O24Pnf3bELGhC1O22SklcS8Yl8xu/view?usp=sharing)])
+
 ## Usage
 
 ### Prerequisites
