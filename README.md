@@ -19,9 +19,7 @@ This project provides a comprehensive Terraform configuration to set up a scalab
 
 ## Architecture Diagram
 
-![Architecture Diagram]([images/AWS_infrastructure.png](https://github.com/OurAlex/nfCapstone_Project_wordpress/blob/main/AWS_infrastructure.png))
-
-## Usage
+![Architecture Diagram](https://github.com/OurAlex/nfCapstone_Project_wordpress/blob/main/AWS_infrastructure.png)
 
 ### Prerequisites
 
